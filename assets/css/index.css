@@ -44,6 +44,10 @@ header {
     margin-bottom: 10px;
 }
 
+.head2 {
+    margin-bottom: -20px;
+}
+
 .appBox {
     height: 250px;
     width: 300px;
@@ -65,10 +69,6 @@ header {
     margin-bottom: auto;
     margin-right: auto;
     display: block;
-}
-
-.head2 {
-    margin-bottom: -20px;
 }
 
 h1 {
